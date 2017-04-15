@@ -1,0 +1,8 @@
+export const FETCH_SELECTED_TRACK = "FETCH_SELECTED_TRACK";
+export const FETCH_TRACKS = "FETCH_TRACKS";
+export const UPLOAD_TRACK = "UPLOAD_TRACK";
+export const DELETE_TRACK = "DELETE_TRACK";
+
+export const FETCH_USER = "FETCH_USER";
+
+export const DEFAULT_ACTION = "DEFAULT_ACTION";
